@@ -52,6 +52,10 @@ p {
 	border: 5px rgb(152,173,166) solid;
 }
 
+#press {
+    margin-bottom: 20px;
+}
+
 h2 {
   color: rgb(111,127,122);
   font-size: 2em;
