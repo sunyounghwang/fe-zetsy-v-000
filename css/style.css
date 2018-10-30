@@ -68,12 +68,11 @@ h2 {
 /* Sections */
 
 #press {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
-
 #press img {
-    border: 5px #ccc solid;
-    padding: 1px;
+  border: 5px #ccc solid;
+  padding: 1px;
 }
 
 footer {
