@@ -53,6 +53,10 @@ header a {
   text-decoration: none;
 }
 
+header a:hover {
+    color: rgb(111,127,122);
+}
+
 p a {
 	color: rgb(33, 132, 185);
 	text-decoration: none;
