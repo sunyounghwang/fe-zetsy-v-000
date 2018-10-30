@@ -58,6 +58,10 @@ header a {
   text-decoration: none;
 }
 
+p a {
+	color: rgb(33, 132, 185);
+}
+
 #featured img {
 	border: 5px rgb(152,173,166) solid;
 }
