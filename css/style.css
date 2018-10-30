@@ -52,14 +52,9 @@ p {
 	border: 5px rgb(152,173,166) solid;
 }
 
-#press {
-    margin-bottom: 20px;
-}
 
-#press img {
-    border: 5px #ccc solid;
-    padding: 1px;
-}
+
+
 
 h2 {
   color: rgb(111,127,122);
@@ -70,9 +65,16 @@ h2 {
   font-size: 0.8em;
 }
 
-
-
 /* Sections */
+
+#press {
+    margin-bottom: 20px;
+}
+
+#press img {
+    border: 5px #ccc solid;
+    padding: 1px;
+}
 
 footer {
   text-align: right;
