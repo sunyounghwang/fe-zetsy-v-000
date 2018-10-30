@@ -57,17 +57,17 @@ header a:hover {
     color: rgb(111,127,122);
 }
 
-p a {
+#featured img {
+	border: 5px rgb(152,173,166) solid;
+}
+
+#featured a {
 	color: rgb(33, 132, 185);
 	text-decoration: none;
 }
 
-p a:hover {
+#featured a:hover {
 	text-decoration: underline;
-}
-
-#featured img {
-	border: 5px rgb(152,173,166) solid;
 }
 
 #press {
