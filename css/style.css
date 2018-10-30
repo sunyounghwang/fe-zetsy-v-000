@@ -60,6 +60,7 @@ header a {
 
 p a {
 	color: rgb(33, 132, 185);
+	text-decoration: none;
 }
 
 #featured img {
